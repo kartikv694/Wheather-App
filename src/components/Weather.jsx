@@ -1,3 +1,6 @@
+// Main Project Code 
+
+// Import Files
 import React, { useEffect, useRef, useState } from 'react'
 import './Weather.css'
 import search_icon from '../Assets/search.png'
